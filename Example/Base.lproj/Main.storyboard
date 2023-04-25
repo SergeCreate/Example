@@ -365,7 +365,7 @@
                                 <rect key="frame" x="38" y="392" width="133" height="107"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" name="AccentColor"/>
-                                <color key="tintColor" red="0.68981629610061646" green="0.2859693169593811" blue="0.087315298616886139" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" titleAlignment="center">
                                     <attributedString key="attributedTitle">
