@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         let lapki = "Lapapapa"
+        let createNew = lapki
     }
 
 
