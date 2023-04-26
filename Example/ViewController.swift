@@ -13,11 +13,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        let lapki = "Lapapapa"
-        let createNew = lapki
-        
- //test1
+        //test2
     }
 
 
